@@ -1,3 +1,8 @@
+
+.home{
+ 	text-decoration: none;
+	color: black;
+ }
 .main{
 
 	background:blue;
@@ -13,6 +18,8 @@ body div.logo{
 	clear:left;
 	background-color: pink;
 margin: 10px;
+
+
 }
 
 body div.menu{
@@ -23,6 +30,13 @@ background-color:brown;
 margin: 10px;
 
 }
+
+
+li{
+	float:left;
+	margin:20px;
+}
+
 body div.banner{
 width:90%;
 height: 100px;
@@ -37,4 +51,8 @@ height: 50px;
 float:left;
 background-color:green;
 margin: 10px;
+}
+
+ul{
+	margin:0;
 }
