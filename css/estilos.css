@@ -32,10 +32,6 @@ margin: 10px;
 }
 
 
-li{
-	float:left;
-	margin:20px;
-}
 
 body div.banner{
 width:90%;
@@ -44,6 +40,19 @@ float:left;
 background-color:red;
 margin: 10px;
 }
+
+li{
+	float:left;
+	margin:20px;
+	list-style: none none;
+}
+
+
+a{
+	text-decoration: none;
+	color:white; 
+}
+
 
 body div.destaque{
 width:22%;
