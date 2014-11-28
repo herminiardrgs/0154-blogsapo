@@ -1,0 +1,40 @@
+.main{
+
+	background:blue;
+	width: 90%;
+	height: 500px;
+	margin: 10px;
+
+}
+body div.logo{
+	width: 100px;
+	height: 30px;
+	float:center;
+	clear:left;
+	background-color: pink;
+margin: 10px;
+}
+
+body div.menu{
+width:90%;
+height: 50px;
+float:left;
+background-color:brown;
+margin: 10px;
+
+}
+body div.banner{
+width:90%;
+height: 100px;
+float:left;
+background-color:red;
+margin: 10px;
+}
+
+body div.destaque{
+width:22%;
+height: 50px;
+float:left;
+background-color:green;
+margin: 10px;
+}
